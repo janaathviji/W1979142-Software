@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335976298652",
+    "project_id": "dermoinspect-92bcd",
+    "storage_bucket": "dermoinspect-92bcd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335976298652:android:d944eb8c1632b09b12d559",
+        "android_client_info": {
+          "package_name": "com.example.dermoinspect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWl0okEA9pmVhXm_MJDj6IoxaK9w0j83w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

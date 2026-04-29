@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">DermoInspect</string>
+
+    <!-- Authentication -->
+    <string name="welcome_login">Welcome Login</string>
+    <string name="welcome_signup">Welcome Sign up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="no_account">No account?</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+
+    <!-- Home -->
+    <string name="slogan_1">DermoInspect it.</string>
+    <string name="slogan_2">Identify it.</string>
+    <string name="slogan_3">Protect it.</string>
+
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="information">Information</string>
+    <string name="about">About</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+
+    <!-- About Us -->
+    <string name="about_us">About Us</string>
+    <string name="who_we_are">Who We Are:</string>
+    <string name="who_we_are_text">DermoInspect is committed to using modern technology to help people understand and control their skin health. With the increasing prevalence of skin diseases, early detection is more vital than ever, yet it can be impossible without the proper equipment.</string>
+    <string name="what_we_do">What We Do:</string>
+    <string name="what_we_do_text">DermoInspect is a mobile application that uses artificial intelligence to classify skin disorders. The users can take or upload a photo of a skin problem, which the system will analyse to identify potential difficulties or risks.</string>
+    <string name="our_objective">Our objective is straightforward: to promote early detection, provide healthcare professionals with valuable insights, and make skin health awareness more accessible.</string>
+
+    <!-- Profile -->
+    <string name="logout">Logout</string>
+    <string name="update_profile">Update Profile</string>
+
+    <!-- Scanning -->
+    <string name="take_photo">Take Photo</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="scan_skin">Scan Skin</string>
+
+    <!-- Results -->
+    <string name="type">Type:</string>
+    <string name="confidence">Confidence:</string>
+    <string name="save_result">Save Result</string>
+
+    <!-- Errors -->
+    <string name="error_email_empty">Email is required</string>
+    <string name="error_email_invalid">Please enter a valid email</string>
+    <string name="error_password_empty">Password is required</string>
+    <string name="error_password_short">Password must be at least 6 characters</string>
+    <string name="error_passwords_not_match">Passwords do not match</string>
+    <string name="error_network">Network error occurred</string>
+
+    <!-- Success -->
+    <string name="success_login">Login successful</string>
+    <string name="success_signup">Account created successfully</string>
+</resources>
