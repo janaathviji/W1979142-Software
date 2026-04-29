@@ -1,5 +1,5 @@
 // Janaath Vijithavarnan
-// W1979142
+// W1979142.
 
 package com.example.dermoinspect.ui.about
 
